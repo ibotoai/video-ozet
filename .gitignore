@@ -1,0 +1,6 @@
+video-ozet-cikti/
+.venv/
+__pycache__/
+.gorev/
+.pytest_cache/
+.pytest_tmp/
